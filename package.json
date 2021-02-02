@@ -1,6 +1,6 @@
 {
   "name": "boticord-api",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Врапер к Boticord API",
   "main": "Boticord.js",
   "keywords": [

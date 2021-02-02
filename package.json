@@ -11,6 +11,10 @@
   ],
   "author": "MillerD3V",
   "license": "MIT",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/MillerD3V/boticord-api.git"
+    }
   "dependencies": {
     "https": "^1.0.0"
   }
